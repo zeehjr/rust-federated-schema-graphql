@@ -9,5 +9,5 @@ edition = "2018"
 [dependencies]
 async-graphql = "1.16"
 async-graphql-warp = "1.4.2"
-tokio = { version = "0.2", features = ["macros"] }
+tokio = { version = "1.8", features = ["macros"] }
 warp = "0.2"
